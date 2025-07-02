@@ -1,6 +1,5 @@
-
 streamlit
-rdkit-pypi
 pandas
+rdkit-pypi
 openpyxl
 xlsxwriter
